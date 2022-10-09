@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/medaf/static/css/main.073c9b0a.css",
-    "main.js": "/medaf/static/js/main.2b156bdd.js",
+    "main.js": "/medaf/static/js/main.063fbc86.js",
     "static/js/787.ed083bda.chunk.js": "/medaf/static/js/787.ed083bda.chunk.js",
     "static/media/logo.svg": "/medaf/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/medaf/index.html",
     "main.073c9b0a.css.map": "/medaf/static/css/main.073c9b0a.css.map",
-    "main.2b156bdd.js.map": "/medaf/static/js/main.2b156bdd.js.map",
+    "main.063fbc86.js.map": "/medaf/static/js/main.063fbc86.js.map",
     "787.ed083bda.chunk.js.map": "/medaf/static/js/787.ed083bda.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.2b156bdd.js"
+    "static/js/main.063fbc86.js"
   ]
 }
