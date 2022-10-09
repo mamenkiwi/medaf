@@ -1,10 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
+import ProvidersComp from "./routes/ProvidersComp";
 
 function App() {
   return (
     <div className="App">
-     <h1>hello world 1</h1>
+           <ProvidersComp />
+
     </div>
   );
 }
